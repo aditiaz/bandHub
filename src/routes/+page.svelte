@@ -35,7 +35,7 @@
 
 <div class="background">
   <div >
-    <p class="judul">Band Hub</p>
-    <p class="sub-judul">Menghubungkan band dengan EO</p>
+    <p class="judul">aws</p> 
+    <p class="sub-judul">tes</p>
   </div>
 </div>
